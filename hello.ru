@@ -1,1 +1,3 @@
-jana file
+def greet (name):
+ return f"Hello, {name}!<<
+print(greet("GitHub"))
